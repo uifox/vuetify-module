@@ -2252,6 +2252,11 @@
     "@typescript-eslint/types" "5.4.0"
     eslint-visitor-keys "^3.0.0"
 
+"@uifox-at-doxo/vuetify@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@uifox-at-doxo/vuetify/-/vuetify-1.0.0.tgz#ebdfb5e203e978f54e22b3a3b3b5f14212395e1d"
+  integrity sha512-0hnd7vFjQe/Eca2y63w9Q9xPSZMBcTHxEhOidcny1hAKu4qa26lXye4smDUyJ13/GG5qPipI0P5yF2TSjMHSQg==
+
 "@vue/babel-helper-vue-jsx-merge-props@^1.2.1":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.2.1.tgz#31624a7a505fb14da1d58023725a4c5f270e6a81"
