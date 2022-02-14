@@ -2252,6 +2252,15 @@
     "@typescript-eslint/types" "5.4.0"
     eslint-visitor-keys "^3.0.0"
 
+"@uifox-at-doxo/vuetify-loader@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@uifox-at-doxo/vuetify-loader/-/vuetify-loader-1.0.0.tgz#aff479a92e6d2de176d3fe789d7723fd83d0aee8"
+  integrity sha512-UO4uxcGif+tv+lwsaZJY7U81gI4AQmEjDWeh+vbBUnVnJZfTpODORwy90bHsHNmbAoT149DrDGcuhVurzIiiCA==
+  dependencies:
+    decache "^4.6.0"
+    file-loader "^6.2.0"
+    loader-utils "^2.0.0"
+
 "@uifox-at-doxo/vuetify@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@uifox-at-doxo/vuetify/-/vuetify-1.0.0.tgz#ebdfb5e203e978f54e22b3a3b3b5f14212395e1d"
@@ -4282,9 +4291,9 @@ debug@^3.2.7:
     ms "^2.1.1"
 
 decache@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/decache/-/decache-4.6.0.tgz#87026bc6e696759e82d57a3841c4e251a30356e8"
-  integrity sha512-PppOuLiz+DFeaUvFXEYZjLxAkKiMYH/do/b/MxpDe/8AgKBi5GhZxridoVIbBq72GDbL36e4p0Ce2jTGUwwU+w==
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/decache/-/decache-4.6.1.tgz#5928bfab97a6fcf22a65047a3d07999af36efaf0"
+  integrity sha512-ohApBM8u9ygepJCjgBrEZSSxPjc0T/PJkD+uNyxXPkqudyUpdXpwJYp0VISm2WrPVzASU6DZyIi6BWdyw7uJ2Q==
   dependencies:
     callsite "^1.0.0"
 
@@ -11059,15 +11068,6 @@ vue@^2.6.12:
   version "2.6.14"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
-
-vuetify-loader@^1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/vuetify-loader/-/vuetify-loader-1.7.3.tgz#404657f4925c828f400fe3269003421d586835c6"
-  integrity sha512-1Kt6Rfvuw3i9BBlxC9WTMnU3WEU7IBWQmDX+fYGAVGpzWCX7oHythUIwPCZGShHSYcPMKSDbXTPP8UvT5RNw8Q==
-  dependencies:
-    decache "^4.6.0"
-    file-loader "^6.2.0"
-    loader-utils "^2.0.0"
 
 vuex@^3.6.2:
   version "3.6.2"

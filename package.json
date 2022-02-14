@@ -31,6 +31,7 @@
   ],
   "dependencies": {
     "@uifox-at-doxo/vuetify": "^1.0.0",
+    "@uifox-at-doxo/vuetify-loader": "^1.0.0",
     "deepmerge": "^4.2.2",
     "sass": "~1.32.13",
     "sass-loader": "^10.2.0"
