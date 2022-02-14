@@ -1,5 +1,5 @@
 import { Module } from '@nuxt/types'
-import { Framework } from 'vuetify'
+import { Framework } from '@uifox-at-doxo/vuetify'
 
 import initOptions, { Options, TreeShakeOptions, VuetifyLoaderOptions } from './options'
 import setupBuild from './build'

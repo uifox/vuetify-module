@@ -1,7 +1,7 @@
 import merge from 'deepmerge'
 
 import { SFCDescriptor } from 'vue-template-compiler'
-import { UserVuetifyPreset } from 'vuetify/types/services/presets'
+import { UserVuetifyPreset } from '@uifox-at-doxo/vuetify/types/services/presets'
 import { NuxtOptions } from '@nuxt/types/config'
 
 import { FontOptions } from './font'

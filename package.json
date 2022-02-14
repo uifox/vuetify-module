@@ -1,7 +1,7 @@
 {
-  "name": "@nuxtjs/vuetify",
-  "version": "1.12.3",
-  "description": "Vuetify Module for Nuxt.js",
+  "name": "@uifox-at-doxo/vuetify-module",
+  "version": "1.0.0",
+  "description": "doxo's Vuetify Module for Nuxt.js",
   "license": "MIT",
   "contributors": [
     {
@@ -13,7 +13,7 @@
   ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "repository": "nuxt-community/vuetify-module",
+  "repository": "git+https://github.com/uifox/vuetify-module.git",
   "publishConfig": {
     "access": "public"
   },
