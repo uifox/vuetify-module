@@ -13,7 +13,7 @@ const setupBuild: Module<Options> = function (
   // Enable tree-shaking with VuetifyLoader (https://github.com/vuetifyjs/vuetify-loader)
   if (options.treeShake) {
     const VuetifyLoaderPlugin = this.nuxt.resolver.requireModule(
-      'vuetify-loader/lib/plugin'
+      '@uifox-at-doxo/vuetify-loader/lib/plugin'
     );
     (this.options.build!.transpile! as string[]).push('vuetify/lib')
 

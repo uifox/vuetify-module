@@ -1,6 +1,6 @@
 import { Nuxt } from '@nuxt/core'
 import dartSass from 'sass'
-import VuetifyLoaderPlugin from 'vuetify-loader/lib/plugin'
+import VuetifyLoaderPlugin from '@uifox-at-doxo/vuetify-loader/lib/plugin'
 
 import _vuetifyModule from '../src'
 import _initOptions, { defaults as defaultOptions, Options, VuetifyLoaderOptions } from '../src/options'
@@ -9,7 +9,7 @@ import _setupFont, { FontOptions } from '../src/font'
 import _setupIcons, { IconPreset } from '../src/icons'
 import _setupSass from '../src/sass'
 
-jest.mock('vuetify-loader/lib/plugin')
+jest.mock('@uifox-at-doxo/vuetify-loader/lib/plugin')
 
 let nuxt
 
